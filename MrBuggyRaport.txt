@@ -1,0 +1,16 @@
+RAPORT
+1.	CEL ORAZ STOPIEŃ JEGO REALIZACJI
+Testowanie w ramach zadania domowego
+Realizacja 95%
+2.	TESTER
+Claudia Cor
+3.	DATA I GODZINA ROZPOCZĘCIA
+11.09.2019r., 19:00
+4.	CZAS TRWANIA
+Około 3 godzin
+5.	ŚRODOWISKO
+Mr. Buggy 3, wyszczególnione aplikacje o numerach: 19-24
+
+6.	TYPY TESTÓW
+
+7.	NIEZGODNOŚCI
