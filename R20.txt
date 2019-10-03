@@ -1,0 +1,17 @@
+#20
+Tytuł: Usuniętego produktu z koszyka, nie można później ponownie do niego dodać
+Środowisko: Mr Buggy, Aplikacja 20
+Warunki początkowe: 
+- włączona aplikacja
+ważność: utrudnia użytkowanie aplikacji
+priorytet 1-3: 1
+kroki odtworzenia problemu:
+1.	Dodaj do koszyka produkt
+2.	Wejdź w koszyk
+3.	Usuń z koszyka dodany wcześniej produkt
+4.	Wróć do koszyka
+5.	Dodaj ten sam produkt do koszyka w tej samej ilości, bądź innej
+Oczekiwany rezultat: Produkt powinien dodać się do koszyka ponownie
+Aktualny rezultat: Produktu nie można ponownie dodać do koszyka
+Kategoria defektu: Funkcjonalność
+
