@@ -1,0 +1,13 @@
+#21
+Tytuł: Nie można zmienić ilości produktu w koszyku, kiedy znajduje się w nim więcej niż 5 produktów
+Środowisko: Mr Buggy, Aplikacja 21
+Warunki początkowe: Uruchomiona aplikacja
+Ważność: 
+priorytet 1-3: 1
+kroki odtworzenia problemu:
+1.	Dodaj do koszyka sześć produktów w dowolnej ilości
+2.	Wejdź w koszyk
+3.	Zmień ilość obojętnie jakiego produktu
+Oczekiwany rezultat: Powinna zmienić się ilość wybranego produktu
+Aktualny rezultat: Aplikacja blokuje zmianę ilości
+Kategoria defektu: Funkcjonalność

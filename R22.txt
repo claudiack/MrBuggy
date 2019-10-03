@@ -1,0 +1,18 @@
+#22
+Tytuł: System pamięta więcej niż jeden adres e-mail
+Środowisko: Mr Buggy, Aplikacja 22
+Warunki początkowe: Uruchomiona aplikacja
+Ważność: 
+priorytet 1-3: 2
+Kroki odtworzenia problemu:
+1.	Przepisz aktualny adres email
+2.	Wpisz nowy adres email
+3.	Kliknij ZMIEŃ
+4.	Kliknij AKTYWUJ
+5.	Przepisz aktualny adres email
+6.	W „nowy adres email” wpisz poprzedni adres email
+7.	Kliknij OK
+Oczekiwany rezultat: Zmieniony adres email
+Aktualny rezultat: Pojawia się komunikat z informacją o tym, że nowy adres e-mail istnieje już w bazie danych
+Kategoria defektu: Funkcjonalność
+
