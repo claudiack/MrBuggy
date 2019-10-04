@@ -1,0 +1,29 @@
+Raport z „testowania” GIT’a
+1.	Tester: 
+Claudia Cor
+2.	Czas trwania: 
+Około 40 minut
+3.	Środowisko: 
+Git version 2.23.0.windows.1
+4.	System: 
+SYSTEM OPERACYJNY: MICROSOFT WINDOWS 10 HOME
+WERSJA: 10.0.18362 Kompilacja 18362
+NAZWA SYSTEMU: DESKTOP-52NTRKE
+PRODUCENT SYSTEMU: LENOVO
+MODEL SYSTEMU: INVALID
+TYP SYSTEMU: x54-based PC
+PROCESOR: Intel(R)Core(TM ) i5-6200U CPU @ 2.3GHz, 2400 MHz…
+5.	Cel oraz stopień realizacji: 
+Testowanie podstawowych funkcji GIT’a, wykonane 100%
+6.	Typy testów: 
+funkcjonalne 
+7.	Przebieg raportu:
+Testowanie zostało rozpoczęte od stworzenia sobie mini lokalnego środowiska do działania w postaci folderu o nazwie „GIT MR BUGGY”. W tym folderze zostało otwarte okno GIT BASH. W nim wpisana została komenda git init dla stworzenia lokalnego repozytorium. Po tym, w konsoli zostało stworzonych pięć plików tekstowych o nazwach „R19” , „R20” , „R21” , „R22” , „R23”. Każdy z nich został przeniesiony do „stanu śledzenia” za pomocą komendy git add, a to potem zostało zatwierdzone commitem -m.
+Kolejnym krokiem było wprowadzenie zmiany w pliku „R19” i sprawdzenie jak zareaguje GIT na git status bez wcześniejszego add’a. Gdy program zwrócił uwagę, że należy ten krok wykonać, został on wykonany. To samo działanie zostało powtórzone w przypadku pliku „R20”.
+Na repo zostało wysłane wypełnienie dwóch plików tekstowych pod nazwą zawierającą błędne info, co zostało zauważone dopiero podczas pisania tego raportu. („filled raports 21-13”[?????])
+Kolejnym krokiem było wprowadzenie zmian do plików „R21”, „R22”, „R23”. Po zapisaniu każdego z nich GIT otrzymał pojedyncze komendy add i git commid -m „filled R21.txt – R23.txt”, oraz  git status dla sprawdzenia, czy wszystko zostało wykonane poprawnie. 
+Po wpisaniu w konsole gitk otworzył się panel zawierający archiwum wprowadzonych zmian.
+8.	Wnioski: Aplikacja oczywiście działa poprawnie. Praca na GIT’ie wymaga skupienia i skrupulatności, zwłaszcza w opisach swoich działań, by nie dochodziło później do zagubienia w sprawdzaniu swojej wykonanej pracy.
+9.	Załączniki: screenshoty z testowania dołączone jako osobne pliki
+
+KONIEC
