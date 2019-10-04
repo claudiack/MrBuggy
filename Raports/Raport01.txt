@@ -1,0 +1,13 @@
+RAPORT 
+ 
+1. CEL ORAZ STOPIEŃ JEGO REALIZACJI Testowanie w ramach zadania domowego Realizacja 95% 2. TESTER Claudia Cor 3. DATA I GODZINA ROZPOCZĘCIA 11.09.2019r., 19:00 4. CZAS TRWANIA Około 3 godzin 5. ŚRODOWISKO Mr. Buggy 3, aplikacje o numerach: 19, 20, 21, 22, 24 6. TYPY TESTÓW Funkcjonalne 7. ILOŚĆ TESTÓW: Wykonane: 5 Niewykonane: 1 8. DEFEKTY I POZIOM ISTOTOŚCI BŁĘDÓW Aplikacja nr 19 – Przy wpisaniu minusowej kwoty przelewu, zasilany jest rachunek nadawcy  POZIOM ISTOTNOŚCI: POWAŻNY 
+ 
+Aplikacja nr 20 – Usuniętego produktu z koszyka, nie można później ponownie do niego dodać POZIOM ISOTNOŚCI: POWAŻNY 
+ 
+Aplikacja nr 21 – Nie można zmienić ilości produktu w koszyku, kiedy znajduje się w nim więcej niż 5 produktów POZIOM ISTOTNOŚCI: POWAŻNY 
+ 
+Aplikacja nr 22 – System pamięta więcej niż jeden adres e-mail POZIOM ISTOTNOŚCI: POWAŻNY 
+ 
+Aplikacja nr 24 – Zmiana nr rachunku po drugiej zmianie kwoty do przelewu w wartości po przecinku POZIOM ISTOTNOŚCI: POWAŻNY 
+ 
+ 
